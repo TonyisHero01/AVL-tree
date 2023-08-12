@@ -60,11 +60,11 @@ Příklad rotace doleva:
 
 Příklad rotace doleva-doprava:
 
-![](Aspose.Words.90ccf2ab-e2a3-4a53-9e59-ef152e772bde.001.png)
+![avatar](/doleva-doprava.png)
 
 Příklad rotace doprava-doleva:
 
-![](Aspose.Words.90ccf2ab-e2a3-4a53-9e59-ef152e772bde.002.png)
+![avatar](/doprava-doleva.png)
 
 `  `Funkce update\_height updatuje výšku daného vrcholu. Algoritmus je tak, že k větší výšce z levého a pravého podstromu přičteme 1.
 
